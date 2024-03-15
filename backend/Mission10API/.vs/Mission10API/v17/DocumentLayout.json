@@ -50,8 +50,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-15T21:42:00.1Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T21:42:00.1Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T21:18:25.685Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T21:18:25.685Z"
             },
             {
               "$type": "Document",
@@ -76,8 +74,7 @@
               "RelativeToolTip": "Data\\Bowler.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAA2wCIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T19:46:58.619Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T19:46:58.619Z"
             },
             {
               "$type": "Document",
@@ -87,7 +84,7 @@
               "RelativeDocumentMoniker": "Controllers\\BowlerController.cs",
               "ToolTip": "C:\\Users\\McKay Lush\\Desktop\\IS Jr. Core\\413\\Mission10_Lush\\backend\\Mission10API\\Controllers\\BowlerController.cs",
               "RelativeToolTip": "Controllers\\BowlerController.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAUwC4AAAAJAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAIwC4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-15T18:41:16.853Z",
               "EditorCaption": ""
@@ -102,8 +99,7 @@
               "RelativeToolTip": "Data\\EFBowlerRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T18:39:42.526Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T18:39:42.526Z"
             },
             {
               "$type": "Document",
@@ -115,8 +111,7 @@
               "RelativeToolTip": "Data\\IBowlerRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T18:38:59.704Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T18:38:59.704Z"
             }
           ]
         }
