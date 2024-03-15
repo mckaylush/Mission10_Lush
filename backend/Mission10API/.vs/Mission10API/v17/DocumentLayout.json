@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\McKay Lush\\Desktop\\IS Jr. Core\\413\\Mission10_Lush\\backend\\Mission10API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8508DA94-861B-474A-B15F-8F206C4099AC}|Mission10API.csproj|c:\\users\\mckay lush\\desktop\\is jr. core\\413\\mission10_lush\\backend\\mission10api\\controllers\\bowlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8508DA94-861B-474A-B15F-8F206C4099AC}|Mission10API.csproj|solutionrelative:controllers\\bowlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8508DA94-861B-474A-B15F-8F206C4099AC}|Mission10API.csproj|c:\\users\\mckay lush\\desktop\\is jr. core\\413\\mission10_lush\\backend\\mission10api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8508DA94-861B-474A-B15F-8F206C4099AC}|Mission10API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8508DA94-861B-474A-B15F-8F206C4099AC}|Mission10API.csproj|c:\\users\\mckay lush\\desktop\\is jr. core\\413\\mission10_lush\\backend\\mission10api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8508DA94-861B-474A-B15F-8F206C4099AC}|Mission10API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8508DA94-861B-474A-B15F-8F206C4099AC}|Mission10API.csproj|c:\\users\\mckay lush\\desktop\\is jr. core\\413\\mission10_lush\\backend\\mission10api\\data\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8508DA94-861B-474A-B15F-8F206C4099AC}|Mission10API.csproj|solutionrelative:data\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8508DA94-861B-474A-B15F-8F206C4099AC}|Mission10API.csproj|c:\\users\\mckay lush\\desktop\\is jr. core\\413\\mission10_lush\\backend\\mission10api\\controllers\\bowlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8508DA94-861B-474A-B15F-8F206C4099AC}|Mission10API.csproj|solutionrelative:controllers\\bowlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8508DA94-861B-474A-B15F-8F206C4099AC}|Mission10API.csproj|c:\\users\\mckay lush\\desktop\\is jr. core\\413\\mission10_lush\\backend\\mission10api\\data\\ibowlerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8508DA94-861B-474A-B15F-8F206C4099AC}|Mission10API.csproj|solutionrelative:data\\ibowlerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8508DA94-861B-474A-B15F-8F206C4099AC}|Mission10API.csproj|c:\\users\\mckay lush\\desktop\\is jr. core\\413\\mission10_lush\\backend\\mission10api\\data\\efbowlerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8508DA94-861B-474A-B15F-8F206C4099AC}|Mission10API.csproj|solutionrelative:data\\efbowlerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8508DA94-861B-474A-B15F-8F206C4099AC}|Mission10API.csproj|c:\\users\\mckay lush\\desktop\\is jr. core\\413\\mission10_lush\\backend\\mission10api\\data\\ibowlerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8508DA94-861B-474A-B15F-8F206C4099AC}|Mission10API.csproj|solutionrelative:data\\ibowlerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,46 +42,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\McKay Lush\\Desktop\\IS Jr. Core\\413\\Mission10_Lush\\backend\\Mission10API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\McKay Lush\\Desktop\\IS Jr. Core\\413\\Mission10_Lush\\backend\\Mission10API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-15T21:42:00.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\McKay Lush\\Desktop\\IS Jr. Core\\413\\Mission10_Lush\\backend\\Mission10API\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\McKay Lush\\Desktop\\IS Jr. Core\\413\\Mission10_Lush\\backend\\Mission10API\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-15T21:18:25.685Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Bowler.cs",
               "DocumentMoniker": "C:\\Users\\McKay Lush\\Desktop\\IS Jr. Core\\413\\Mission10_Lush\\backend\\Mission10API\\Data\\Bowler.cs",
               "RelativeDocumentMoniker": "Data\\Bowler.cs",
               "ToolTip": "C:\\Users\\McKay Lush\\Desktop\\IS Jr. Core\\413\\Mission10_Lush\\backend\\Mission10API\\Data\\Bowler.cs",
               "RelativeToolTip": "Data\\Bowler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA2wCIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-15T19:46:58.619Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "BowlerController.cs",
               "DocumentMoniker": "C:\\Users\\McKay Lush\\Desktop\\IS Jr. Core\\413\\Mission10_Lush\\backend\\Mission10API\\Controllers\\BowlerController.cs",
               "RelativeDocumentMoniker": "Controllers\\BowlerController.cs",
               "ToolTip": "C:\\Users\\McKay Lush\\Desktop\\IS Jr. Core\\413\\Mission10_Lush\\backend\\Mission10API\\Controllers\\BowlerController.cs",
               "RelativeToolTip": "Controllers\\BowlerController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAwAAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAAUwC4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-15T18:41:16.853Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "EFBowlerRepository.cs",
               "DocumentMoniker": "C:\\Users\\McKay Lush\\Desktop\\IS Jr. Core\\413\\Mission10_Lush\\backend\\Mission10API\\Data\\EFBowlerRepository.cs",
               "RelativeDocumentMoniker": "Data\\EFBowlerRepository.cs",
@@ -96,7 +113,7 @@
               "RelativeDocumentMoniker": "Data\\IBowlerRepository.cs",
               "ToolTip": "C:\\Users\\McKay Lush\\Desktop\\IS Jr. Core\\413\\Mission10_Lush\\backend\\Mission10API\\Data\\IBowlerRepository.cs",
               "RelativeToolTip": "Data\\IBowlerRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-15T18:38:59.704Z",
               "EditorCaption": ""
